@@ -1,4 +1,6 @@
-# Madhav_Store_Analysis_PowerBI
-Complete Power BI project using restail sales data 
+# Madhav_Store_PowerBI_Dashboard
+Professional Power Bi Dashboard
 
-like this video :)
+Complete Power BI project using retail store sales data 
+
+Watch tutorial video on YouTube :)
